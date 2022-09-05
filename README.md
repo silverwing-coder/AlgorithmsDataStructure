@@ -1,6 +1,6 @@
 <h6>Ver. May-2022.</h6>
 <h2> CS 210 / CS 310 : Algorithms and Data Structure #1 / #2</h2>
-<h4 style="color:green"><i> Prof.Sangmork "SAM" Park (Col. ROKAF)</i></h4>
+<h4 style="color:green"><i> Prof. Sangmork "SAM" Park (Col. ROKAF)</i></h4>
 <h5><u><i>School of Arts and Science, Carolina University</i></u></h5>
 
 <h4>Textbook:</h4> 
@@ -10,16 +10,15 @@
 
 <h4>Prerequisites:</h4>
 
--   Basic skills on Programming (C/C++ or Java)
--   CS 210 is the prerequisite for CS 310 registeration
+-   Basic skills in Programming (C/C++ or Java)
+-   CS 210 is the prerequisite for CS 310 registration
 
 ---
 
 <h4>Course description</h4>
 
--   This course covers the overview of data structure and algorithms which enable us to integrate problem-solving processes, programming knowledge and
-    techniques on the data structure and algorithms basis.
--   CS 210 and CS 310 are the a contiguouse course that deals with different algorithms and data structures.
+-   This course covers the overview of data structure and algorithms which enable us to integrate problem-solving processes, programming knowledge and techniques on the data structure and algorithms basis.
+-   CS 210 and CS 310 are a continuous course that deals with different algorithms and data structures topics.
 
 ---
 
@@ -55,7 +54,7 @@
 <h5>Week-6: </h5>
 
 -   Priority Queues
--   Comparators, Stability, Median and Order Statistics
+-   Comparators, Stability, Median, and Order Statistics
 -   Quiz#5, Hands-on Project#6
 
 <h5>Week-7: </h5>
