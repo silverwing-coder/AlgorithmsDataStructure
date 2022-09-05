@@ -27,30 +27,40 @@
 
 <h5>Week-1: </h5>
 
+-   Basic Programming Model (Intro. To Java)
+-   Data Abstraction (ADTs)
 -   Quiz#1, Hands-on Project#1
 
 <h5>Week-2: </h5>
 
+-   Bags, Queues, and Stacks
 -   Quiz#2, Hands-on Project#2
 
 <h5>Week-3: </h5>
 
+-   Analysis of Algorithms (Time/Memory cost)
 -   Quiz#3, Hands-on Project#3
 
 <h5>Week-4: </h5>
 
+-   Union-Find
 -   Mid-term exam, Hands-on Project#4
 
 <h5>Week-5: </h5>
 
+-   Elementary Sorts
+-   Mergesort/Quicksort
 -   Quiz#4, Hands-on Project#5
 
 <h5>Week-6: </h5>
 
+-   Priority Queues
+-   Comparators, Stability, Median and Order Statistics
 -   Quiz#5, Hands-on Project#6
 
 <h5>Week-7: </h5>
 
+-   Symbol Tables
 -   Final exam, Final Project
 
 ---
@@ -59,30 +69,44 @@
 
 <h5>Week-1: </h5>
 
+-   Binary Search Trees
+-   Balanced Search Trees
 -   Quiz#1, Hands-on Project#1
 
 <h5>Week-2: </h5>
 
+-   Hash Tables
+-   Filters, Indexing, Sparse matrix-vector
 -   Quiz#2, Hands-on Project#2
 
 <h5>Week-3: </h5>
 
+-   Undirected Graphs
+-   Directed Graphs
 -   Quiz#3, Hands-on Project#3
 
 <h5>Week-4: </h5>
 
+-   Minimum Spanning Trees
+-   Shortest Paths
 -   Mid-term exam, Hands-on roject#4
 
 <h5>Week-5: </h5>
 
+-   String Sorts
+-   Tries
 -   Quiz#4, Hands-on Project#5
 
 <h5>Week-6: </h5>
 
+-   Substring Search
+-   Regular Expressions
 -   Quiz#5, Hands-on Project#6
 
 <h5>Week-7: </h5>
 
+-   Data Compression
+-   Event-Driven Simulation (Processing API)
 -   Final exam, Final Project
 
 ---
