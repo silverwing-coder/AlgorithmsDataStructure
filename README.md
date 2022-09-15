@@ -1,6 +1,6 @@
 <h6>Ver. May-2022.</h6>
 <h2> CS 210 / CS 310 : Algorithms and Data Structure #1 / #2</h2>
-<h4 style="color:green"><i> Prof. Sangmork "SAM" Park (Col. ROKAF)</i></h4>
+<h4 style="color:green"><i> Prof. Sangmork "SAM" Park (Col(R). ROKAF)</i></h4>
 <h5><u><i>School of Arts and Science, Carolina University</i></u></h5>
 
 <h4>Textbook:</h4> 
