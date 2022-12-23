@@ -1,17 +1,17 @@
 <h6>Ver. May-2022.</h6>
-<h2> CS 210 / CS 310 : Algorithms and Data Structure #1 / #2</h2>
+<h2> CS 310 : Algorithms and Data Structure - 2</h2>
 <h4 style="color:green"><i> Prof. Sangmork "SAM" Park (Col(R). ROKAF)</i></h4>
 <h5><u><i>School of Arts and Science, Carolina University</i></u></h5>
 
 <h4>Textbook:</h4> 
-<img src = "./Images/AlgorithmsTextBook.jpg" alt = "Algorithms TextBook" width="150"/>
+<img src = "../Images/AlgorithmsTextBook.jpg" alt = "Algorithms TextBook" width="150"/>
 
 <em><u>[Robert Sedgewick and Kevin Wayne, 2011. "Algorithms, 4th edition", Princeton University](https://www.pearson.com/en-us/subject-catalog/p/algorithms/P200000000597/9780321573513?creative=544666367026&keyword=&matchtype=&network=u&device=c&gclid=Cj0KCQjwmdGYBhDRARIsABmSEeOR1bE8eBQrhV9t569r2zpXKWBzSlJAky5Bb1Azmz7QuB8b3wvmuoIaAogMEALw_wcB&gclsrc=aw.ds)</u></em>
 
 <h4>Prerequisites:</h4>
 
 -   Basic skills in Programming (C/C++ or Java)
--   CS 210 is the prerequisite for CS 310 registration
+-   CS 210 (Algorithm and Data Structures - 1)
 
 ---
 
